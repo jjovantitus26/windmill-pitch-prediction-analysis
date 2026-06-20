@@ -1,20 +1,5 @@
-# 🌬️ Wind Turbine Pitch Control & Error Correction System
-
-## 📌 IEEE Research Project
-
-This project is based on our published IEEE paper:
-
-**Windmill Pitch Prediction and Error Correction With Adaptive Control and Current Generation Analysis Using Data Analysis**
-
----
-
-## 👥 Authors
-- M. S. Minu  
-- Rohit Suryaa S  
-- Jovan Titus J  
-- Sharan S  
-
----
+# **Windmill Pitch Prediction and Error Correction With Adaptive Control and Current Generation Analysis Using Data Analysis**
+IEEE LINK : https://ieeexplore.ieee.org/document/10433983
 
 ## 🎯 Objective
 To improve wind turbine efficiency by predicting and correcting pitch angle errors using adaptive control and data-driven analysis.
